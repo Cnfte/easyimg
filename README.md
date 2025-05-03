@@ -2,8 +2,8 @@
 简单图床-一键式安装图床系统
 项目地址:https://github.com/Cnfte/easyimg/
 下载:
-通道一:https://pan.huang1111.cn/s/9QkNZUd
-本仓库有cnfte运营
+通道一:https://www.123912.com/s/VYl8Td-G4vI
+本仓库由cnfte运营
 如果你发现该项目存在严重问题请立即发送邮件至15902064741@163.com我将会紧急处理
 # 第一次更新
 beta v1.0
